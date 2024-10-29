@@ -62,7 +62,7 @@ st.markdown(
 image_url = "https://raw.githubusercontent.com/andrestaddei/Proyecto/main/Allianz.svg"
 
 # Mostrar la imagen en Streamlit
-st.image(Allianz.svg, width=200)
+st.image(Ahttps://raw.githubusercontent.com/andrestaddei/Proyecto/main/Allianz.svg, width=200)
 # Título de la aplicación
 st.markdown('<h1 class="title">Simulador de instrumentos Allianz Patrimonial</h1>', unsafe_allow_html=True)
 
