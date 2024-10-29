@@ -58,7 +58,11 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
+# URL de la imagen en formato raw desde GitHub
+image_url = "https://raw.githubusercontent.com/andrestaddei/Proyecto/main/Allianz.svg"
 
+# Mostrar la imagen en Streamlit
+st.image(image_url, width=200)
 # Título de la aplicación
 st.markdown('<h1 class="title">Simulador de instrumentos Allianz Patrimonial</h1>', unsafe_allow_html=True)
 
