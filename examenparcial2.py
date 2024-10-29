@@ -59,8 +59,6 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.image(r"C:\Users\amtad\Documents\ClasePython\Allianz.svg", width=200)
-
 # Título de la aplicación
 st.markdown('<h1 class="title">Simulador de instrumentos Allianz Patrimonial</h1>', unsafe_allow_html=True)
 
